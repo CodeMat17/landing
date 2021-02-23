@@ -1,6 +1,9 @@
 <template>
   <div class="flex-1 overflow-y-auto bg-gray-200">
-    <div class="bg-gray-900 w-full h-4/5 pt-12 pb-4">
+    
+    <div class="bg-gray-900 w-full h-4/5">
+    <p class="text-yellow-500 text-2xl tracking-widest font-bold border-b-4 border-yellow-800 inline-block m-4">CodeMat</p>
+    <div class="pt-12 pb-4">
       <div class="w-full h-full flex items-center justify-center mx-auto">
         <div
           class="bg-transparent p-4 sm:flex sm:justify-center sm:items-center"
@@ -21,9 +24,9 @@
               Chukwu Matthew
             </h1>
             <h4
-              class="text-xl font-bold text-center sm:text-left md:text-2xl md:tracking-widest"
+              class="text-xl font-bold text-center sm:text-left md:text-2xl tracking-widest"
             >
-              Fullstack Software Developer
+              Software Developer
             </h4>
             <div class="flex justify-center items-center">
               <a
@@ -97,9 +100,9 @@
           </div>
         </div>
       </div>
+      </div>
     </div>
     <div class="px-4">
-      <!-- <div class="px-4 grid md:grid-cols-2 md:gap-4 xl:grid-cols-3"> -->
       <!-- about me -->
       <div
         class="mt-12 md:mt-20 md:flex md:items-center md:justify-between w-full max-w-4xl mx-auto"
