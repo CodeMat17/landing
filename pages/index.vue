@@ -191,7 +191,7 @@
             </p>
           </div>
           <div class="text-center md:text-left text-lg p-4 space-y-4">
-            <p>Policy, Strategy And Leadership Course, 20</p>
+            <p>Policy, Strategy And Leadership Course, Class 20</p>
             <p>Illicit Trade, Security& Enforcement Duties</p>
             <p>Strategies For Revenue Generation</p>
             <p>Etc</p>
