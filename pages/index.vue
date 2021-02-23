@@ -232,7 +232,7 @@
         <div
           class="bg-gray-900 text-yellow-500 p-4 flex items-center justify-between"
         >
-          <p class="font-bold text-2xl tracking-widest uppercase">Contact Me</p>
+          <p class="font-bold text-xl tracking-widest uppercase">Contact Me</p>
 
           <img src="@/assets/svg/contact.svg" alt="about svg" class="w-12" />
         </div>
