@@ -179,15 +179,15 @@
                 class="bg-gray-900 text-yellow-500 px-2 py-1 rounded-md text-sm"
                 href="https://buyhere.netlify.app"
                 target="_blank"
-                >See Demo</a
+                >Demo</a
               >
             </div>
             <div class="flex items-center justify-between">
               <p>Payslip Generation Mobile Web App</p>
-               <p
+              <p
                 class="bg-gray-900 text-yellow-500 px-2 py-1 rounded-md text-sm"
               >
-                Coming soon
+                Soon
               </p>
             </div>
             <div class="flex items-center justify-between">
@@ -195,7 +195,7 @@
               <p
                 class="bg-gray-900 text-yellow-500 px-2 py-1 rounded-md text-sm"
               >
-                Coming soon
+                Soon
               </p>
             </div>
 
