@@ -20,14 +20,14 @@
                 alt="codemat-img"
               />
             </div>
-            <div class="text-yellow-500 sm:ml-8">
+            <div class="text-yellow-500">
               <h1
-                class="font-bold mt-4 text-center sm:text-left text-3xl uppercase tracking-wider md:tracking-widest md:text-4xl"
+                class="font-bold mt-4 sm:ml-8 text-center sm:text-left text-3xl uppercase tracking-wider md:tracking-widest md:text-4xl"
               >
                 Chukwu Matthew
               </h1>
               <h4
-                class="text-xl font-bold text-center sm:text-left md:text-2xl tracking-widest"
+                class="text-xl font-bold text-center md:text-2xl tracking-widest"
               >
                 Software Developer
               </h4>
@@ -126,7 +126,7 @@
               in providing new, relevant and powerful software solutions.
             </p>
             <p>
-              I also love giving back to the tech community by mentoring of the
+              I also love giving back to the tech community by mentoring the
               younger developers.
             </p>
           </div>
@@ -148,7 +148,7 @@
               My Stack of interest
             </p>
           </div>
-          <div class="text-center md:text-left text-lg p-4 space-y-4">
+          <div class="text-center text-lg p-4 space-y-4">
             <p>Vuejs</p>
             <p>Nuxtjs</p>
             <p>Strapi</p>
@@ -169,7 +169,7 @@
         >
           <div class="bg-gray-900 text-yellow-500 p-4">
             <p class="font-bold text-xl tracking-widest uppercase">
-              Coding Skills
+              Projects (selected)
             </p>
           </div>
           <div class="text-lg p-4 space-y-4">
@@ -216,13 +216,14 @@
         >
           <div class="bg-gray-900 text-yellow-500 p-4">
             <p class="font-bold text-xl tracking-widest uppercase">
-              Administrative Skills
+              Other Certificates
             </p>
           </div>
           <div class="text-center md:text-left text-lg p-4 space-y-4">
             <p>Policy, Strategy And Leadership Course, Class 20</p>
             <p>Illicit Trade, Security& Enforcement Duties</p>
             <p>Strategies For Revenue Generation</p>
+            <p>Project Management</p>
             <p>Etc</p>
           </div>
         </div>
